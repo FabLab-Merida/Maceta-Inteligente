@@ -1,0 +1,14 @@
+Maceta Top - Top
+conectoriman - Conector_Sup_Iman_a
+conectorimanlargo - Conector_Sup_Iman_b
+conector - Conector_Sup
+conectorinferior - Conector_Inf
+pared1 - Pared_a
+Pieza1 - Pasante
+Pieza2 - Pared_b
+Pieza3 - Pared_c
+Pieza4 - Pared_d
+Pieza7 - Base_Electronica
+Pieza44 - Depósito
+Filtro
+

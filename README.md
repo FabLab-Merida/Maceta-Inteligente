@@ -1,2 +1,2 @@
 # Maceta Inteligente
- WIP
+ Maceta Inteligente de los proyectos CITlab
